@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>My Web Page</title>
+</title>
+<body style=background-color:green>
+<html>
+<head>
+<title>My Web Page</title>
+</head>
+<body>
+<p>
+<font size=10 face=arial color=orange>
+<title>My Web Page</title>
+</head>
+<body>
+<h1>My Web Page</h1>
+<p>My Web Page Consists Of:
+<ul>
+<li>Lists</li>
+<li>Links</li>
+<li>Backgrounds</li>
+<li>Colorful Text</li>
+<li>Images</li>
+<li>Html...</li>
+</ul>
+<p>These are the links of 5 popular websites:</p>
+<a href="https://www.youtube.com">Youtube,
+</a></p>
+<a href="https://www.google.com">Google,
+</a></p>
+<p><a href="https://www.bing.com">Bing,
+</a></p>
+<a href="https://www.wikipedia.org">Wikipedia,
+</a></p>
+<a href="https://www.amazon.in">Amazon
+</a></p>
+<ul>
+<li>My Games:</li>
+</ul>
+<a href=https://studio.code.org/projects/flappy/DrjKTyuN4LqpzcWdZZhQVUf5OFEfGx9PejlBv888OLc>Game 1
+</a></p>
+<h1>HTML</h1>
+<img src="https://www.computerhope.com/jargon/h/html-head.jpg">
